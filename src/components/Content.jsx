@@ -35,8 +35,7 @@ const Content = () => {
                             <Card.Body>
                                 <Card.Title>Card Title</Card.Title>
                                 <Card.Text>
-                                    Some quick example text to build on the card title and make up the
-                                    bulk of the card's content.
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis sed nam, incidunt vitae exercitationem neque eaque perferendis? Tempore, enim architecto.
                                 </Card.Text>
                                 <Button variant="primary">Go somewhere</Button>
                             </Card.Body>
@@ -48,8 +47,7 @@ const Content = () => {
                             <Card.Body>
                                 <Card.Title>Card Title</Card.Title>
                                 <Card.Text>
-                                    Some quick example text to build on the card title and make up the
-                                    bulk of the card's content.
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat ipsam provident fuga aut inventore sit ullam laudantium maiores dolorem nisi?
                                 </Card.Text>
                                 <Button variant="primary">Go somewhere</Button>
                             </Card.Body>
@@ -61,8 +59,7 @@ const Content = () => {
                             <Card.Body>
                                 <Card.Title>Card Title</Card.Title>
                                 <Card.Text>
-                                    Some quick example text to build on the card title and make up the
-                                    bulk of the card's content.
+                                   Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestias unde sapiente tempora odio vitae reiciendis dolorum, doloremque laboriosam ipsa explicabo!
                                 </Card.Text>
                                 <Button variant="primary">Go somewhere</Button>
                             </Card.Body>
