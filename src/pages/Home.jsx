@@ -1,4 +1,5 @@
 import Content from "../components/Content"
+import Footer from "../components/Footer"
 import Header from "../components/Header"
 import Topbar from "../components/Topbar"
 
@@ -9,6 +10,7 @@ const Home = () => {
         <Topbar/>
         <Header/>
         <Content/>
+        <Footer/>
     </div>
   )
 }
