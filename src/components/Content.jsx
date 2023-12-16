@@ -11,8 +11,7 @@ const Content = () => {
                             <Card.Body>
                                 <Card.Title>Card Title</Card.Title>
                                 <Card.Text>
-                                    Some quick example text to build on the card title and make up the
-                                    bulk of the card's content.
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum sint assumenda praesentium recusandae in provident.
                                 </Card.Text>
                                 <Button variant="primary">Go somewhere</Button>
                             </Card.Body>
@@ -24,8 +23,7 @@ const Content = () => {
                             <Card.Body>
                                 <Card.Title>Card Title</Card.Title>
                                 <Card.Text>
-                                    Some quick example text to build on the card title and make up the
-                                    bulk of the card's content.
+                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim ipsa fuga accusantium mollitia voluptates rem beatae earum error iste reprehenderit?
                                 </Card.Text>
                                 <Button variant="primary">Go somewhere</Button>
                             </Card.Body>
